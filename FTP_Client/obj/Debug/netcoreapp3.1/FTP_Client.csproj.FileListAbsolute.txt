@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\FTP_Client\FTP_Client\bin\Debug\netcoreapp3.1\FTP_Client.exe
+C:\Users\user\source\repos\FTP_Client\FTP_Client\bin\Debug\netcoreapp3.1\FTP_Client.deps.json
+C:\Users\user\source\repos\FTP_Client\FTP_Client\bin\Debug\netcoreapp3.1\FTP_Client.runtimeconfig.json
+C:\Users\user\source\repos\FTP_Client\FTP_Client\bin\Debug\netcoreapp3.1\FTP_Client.runtimeconfig.dev.json
+C:\Users\user\source\repos\FTP_Client\FTP_Client\bin\Debug\netcoreapp3.1\FTP_Client.dll
+C:\Users\user\source\repos\FTP_Client\FTP_Client\bin\Debug\netcoreapp3.1\FTP_Client.pdb
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.AssemblyInfo.cs
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.dll
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.pdb
+C:\Users\user\source\repos\FTP_Client\FTP_Client\obj\Debug\netcoreapp3.1\FTP_Client.genruntimeconfig.cache
